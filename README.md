@@ -2,7 +2,7 @@
 
 **Developer FullStack**
 
-<p>Hello, my name is Nicolas, I'm 15 years old. I'm on my way to finishing high school, with a technical degree in computer science. Currently, I intend to study Systems Analysis and Development. I'm passionate about...</p>
+<p>Hello, my name is Nicolas and I am 15 years old. I am currently finishing high school and completing a technical course in Computer Science. With a solid foundation in development, I direct my studies and projects accordingly.</p>
 
 ---
 
