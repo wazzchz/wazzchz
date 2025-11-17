@@ -2,7 +2,7 @@
 
 **<h3>Developer FullStack</h3>**
 
-**<h4>Hello, my name is Nicolas and I am 15 years old. I am currently finishing high school and completing a technical course in Computer Science. With a solid foundation in development, I direct my studies and projects accordingly.</h4>**
+**<p>Hello, my name is Nicolas and I am 15 years old. I am currently finishing high school and completing a technical course in Computer Science. With a solid foundation in development, I direct my studies and projects accordingly.</p>**
 
 ---
 
