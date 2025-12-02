@@ -1,8 +1,8 @@
+<h2>NicolasDev</h2>
+
 **<h3>Developer FullStack</h3>**
 
-**<p>Hello, my name is Nicolas and I am 15 years old. I am currently finishing high school and completing a technical course in Computer Science. With a solid foundation in development, I direct my studies and projects accordingly.</p>**
-
----
+**<p>👋 Hello, my name is Nicolas and I am 15 years old. I'm a front-end/back-end developer And I'm passionate about computer science. </p>**
 
 <h3>🤖 Languages e Technologies</h3>
 
